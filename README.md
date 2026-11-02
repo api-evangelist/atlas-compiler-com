@@ -1,4 +1,4 @@
-# atlas-compiler-com
+# Atlas
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,153 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-atlas-compiler-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://atlas-compiler.com/
+Atlas compiles public web content into clean Markdown and typed intermediate representation (IR) for search, data pipelines, knowledge systems, automation, and AI applications. It provides a deterministic web intelligence infrastructure that enables developers to transform web pages into structured data, facilitating integration, analysis, and AI-driven workflows across the internet.
+
+**Areas:** Web Intelligence · Data Pipelines · Automation · AI · Developer Tools
+
+## Atlas on APIs.io
+
+Everything profiled for Atlas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/atlas-compiler-com/](https://apis.io/providers/atlas-compiler-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Atlas API Keys API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-api-keys-api/) — The API Keys API from Atlas — 5 operation(s) for api keys.
+- [Atlas Billing API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-billing-api/) — The Billing API from Atlas — 9 operation(s) for billing.
+- [Atlas Execution API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-execution-api/) — The Execution API from Atlas — 5 operation(s) for execution.
+- [Atlas Identity API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-identity-api/) — The Identity API from Atlas — 2 operation(s) for identity.
+- [Atlas Invitations API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-invitations-api/) — The Invitations API from Atlas — 4 operation(s) for invitations.
+- [Atlas Jobs API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-jobs-api/) — The Jobs API from Atlas — 5 operation(s) for jobs.
+- [Atlas Members API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-members-api/) — The Members API from Atlas — 4 operation(s) for members.
+- [Atlas Projects API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-projects-api/) — The Projects API from Atlas — 3 operation(s) for projects.
+- [Atlas System API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-system-api/) — The System API from Atlas — 1 operation(s) for system.
+- [Atlas Usage API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-usage-api/) — The Usage API from Atlas — 2 operation(s) for usage.
+- [Atlas Webhooks API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-webhooks-api/) — The Webhooks API from Atlas — 11 operation(s) for webhooks.
+- [Atlas Workspaces API](https://apis.io/apis/atlas-compiler-com/atlas-compiler-com-workspaces-api/) — The Workspaces API from Atlas — 5 operation(s) for workspaces.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Atlas Compiler Com Agentic Access](https://apis.io/agentic-access/atlas-compiler-com/atlas-compiler-com-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [ExecutionResultArtifact](https://apis.io/schemas/atlas-compiler-com/atlas-compiler-com-execution-result-artifact/)
+- [HealthResponse](https://apis.io/schemas/atlas-compiler-com/atlas-compiler-com-health-response/)
+- [JsonValue](https://apis.io/schemas/atlas-compiler-com/atlas-compiler-com-json-value/)
+- [PlanCatalog](https://apis.io/schemas/atlas-compiler-com/atlas-compiler-com-plan-catalog/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Atlas Compiler Com Context](https://apis.io/jsonld/atlas-compiler-com/atlas-compiler-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Atlas API Rules](https://apis.io/rules/atlas-compiler-com/atlas-compiler-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Atlas Compiler Com Authentication](https://apis.io/security/atlas-compiler-com/atlas-compiler-com-authentication/)
+- [Atlas Compiler Com Domain Security](https://apis.io/security/atlas-compiler-com/atlas-compiler-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Atlas Compiler Com Scopes](https://apis.io/scopes/atlas-compiler-com/atlas-compiler-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Atlas Compiler Com Plans Pricing](https://apis.io/plans/atlas-compiler-com/atlas-compiler-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Atlas Compiler Com Rate Limits](https://apis.io/rate-limits/atlas-compiler-com/atlas-compiler-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://atlas-compiler.com/)
+- [Documentation](https://docs.atlas-compiler.com/)
+- [Getting started](https://atlas-compiler.com/blog/getting-started-with-atlas/)
+- [API reference](https://docs.atlas-compiler.com/)
+- [Pricing](https://atlas-compiler.com/pricing/)
+- [Sign up](https://dashboard.atlas-compiler.com/sign-up)
+- [Changelog](https://atlas-compiler.com/changelog/)
+- [Blog](https://atlas-compiler.com/blog/)
+- [Terms of service](https://atlas-compiler.com/terms/)
+- [Privacy policy](https://atlas-compiler.com/privacy/)
+- [GitHub](https://github.com/Atlas-Compiler)
+
+## API Evangelist rating
+
+**Kin Score 60.9** — strong · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 55.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 49.5 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 44.7 |
+
+**Agent readiness 65.9** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/atlas-compiler-com/](https://apis.io/providers/atlas-compiler-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Atlas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/atlas-compiler-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
